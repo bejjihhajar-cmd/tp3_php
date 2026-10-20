@@ -9,19 +9,3 @@ define('NOTE_MIN', 0);
 define('NOTE_MAX', 20);
 define('SEUIL', 10);
 ?>
-//exercice 1.1
-<?php
-$a = 10;
-$A = 20;
-
-echo $a . "<br>";
-echo $A;
-?>
-//exercice 1.2
-<?php
-const ETABLISSEMENT = "FSSM";
-
-define("NOTE_MIN", 0);
-define("NOTE_MAX", 20);
-define("SEUIL", 10);
-?>
